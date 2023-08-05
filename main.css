@@ -1,0 +1,17 @@
+.mobile-menu {
+   width: 30px;
+}
+.mobile-menu-exit {
+   width: 30px;
+}
+span {
+   font-weight: bold;
+   font-size: 18px;
+   
+}
+.current {
+   font-weight: bold;
+}
+.container {
+   background: red;
+}
